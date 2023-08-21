@@ -7,6 +7,6 @@
 | 维度名           | 之前 | 之后 |
 | :--------------- | :--- | :--: |
 | issues 数        | 1    |      |
-| pull requests 数 | 1    |      |
+| pull requests 数 | 2    |      |
 | fork 数          | 1    |      |
 | star 数          | 1    |      |
