@@ -1,7 +1,12 @@
 # test-demo
+
 用来测试项目迁移
-验证维度：
-1. issues数量
-2. pull requests 数量
-3. fork数量
-4. star数量
+
+### 验证维度
+
+| 维度名           | 之前 | 之后 |
+| :--------------- | :--- | :--: |
+| issues 数        | 1    |      |
+| pull requests 数 | 1    |      |
+| fork 数          | 1    |      |
+| star 数          | 1    |      |
